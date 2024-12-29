@@ -1,0 +1,60 @@
+[{
+    "id": 1,
+    "title": "Responsive Layout and FrameWork",
+    "skills": [
+      {
+        "bootsrtap": [
+          {
+            "title": "BOOTSTRAP",
+            "imgPath": "../../src/images/bootstrap.png"
+          }
+        ],
+        "tailwindcss": [
+          {
+            "title": "TAILWINDCSS",
+            "imgPath": "../../src/images/tailwindcss.png"
+          }
+        ]
+      }
+    ]
+  }, {
+    "id": 2,
+    "title": "Php FrameWorks",
+    "skills": [
+      {
+        "codeignighter": [
+          {
+            "title": "CODEIGNIGHTER",
+            "imgPath": "../../src/images/codeigniter.png"
+          }
+        ],
+        "laravel": [
+          {
+            "title": "LARAVEL",
+            "imgPath": "../../src/images/laravel.png"
+          }
+        ]
+        
+      }
+    ]
+  }, {
+    "id": 3,
+    "title": "Version Control System",
+    "skills": [
+      {
+        "git": [
+          {
+            "title": "GIT",
+            "imgPath": "../../src/images/git.png"
+          }
+        ],
+        "docker": [
+          {
+            "title": "DOCKER",
+            "imgPath": "../../src/images/docker.png"
+          }
+        ]
+      }
+    ]
+  }
+]

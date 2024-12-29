@@ -1,0 +1,87 @@
+[
+    {"id":"1",
+    "src":"/src/images/construction1.png",
+    "properties":[{
+            "title":"Construction",
+            "projectSrc":"/src/images/constructionfull.jpg",
+            "colorscheme":"/src/images/constructioncolorscheme.png",
+            "font":"Raleway",
+            "preview":"",
+            "designtemplate":"",
+            "wp":"",
+            "react":"",
+            "htmltemplate":""
+        }]
+    },
+    {"id":"2",
+    "src":"/src/images/pharmacy.png",
+    "properties":[{
+            "title":"Pharmacy",
+            "projectSrc":"/src/images/pharmacyfull.png",
+            "colorscheme":"/src/images/colorscheme.png",
+            "font":"",
+            "preview":"",
+            "designtemplate":"",
+            "wp":"",
+            "react":"",
+            "htmltemplate":""
+        }]
+    },
+    {"id":"3",
+    "src":"/src/images/music.png",
+    "properties":[{
+            "title":"Music Event",
+            "projectSrc":"/src/images/musicevent.png",
+            "colorscheme":"/src/images/musiccolorscheme.png",
+            "font":"Lily Script One,Freeman and Inter",
+            "preview":"",
+            "designtemplate":"",
+            "wp":"",
+            "react":"",
+            "htmltemplate":""
+        }]
+    },
+    {"id":"4",
+    "src":"/src/images/ecommerce.jpg",
+    "properties":[{
+            "title":"Ecommerce",
+            "projectSrc":"/src/images/ecommerce.jpg",
+            "colorscheme":"/src/images/Ecommececolor_03.jpg",
+            "font":"Impact and Ariel",
+            "preview":"",
+            "designtemplate":"",
+            "wp":"",
+            "react":"",
+            "htmltemplate":""
+        }]
+    },
+    {"id":"5",
+    "src":"/src/images/androidapp.png",
+    "properties":[{
+            "title":"Android Studio",
+            "projectSrc":"/src/images/androidapp.png",
+            "colorscheme":"/src/images/androidcolorscheme.png",
+            "font":"NanumGothic and Inter",
+            "preview":"",
+            "designtemplate":"",
+            "wp":"",
+            "react":"",
+            "htmltemplate":""
+        }]
+    },
+    {"id":"6",
+    "src":"/src/images/portfolio.png",
+    "properties":[{
+            "title":"construction",
+            "projectSrc":"/src/images/myportfoliosite.png",
+            "colorscheme":"/src/images/myportfoliocolorscheme.png",
+            "font":"",
+            "preview":"",
+            "designtemplate":"",
+            "wp":"",
+            "react":"",
+            "htmltemplate":""
+        }]
+    }
+    
+]
