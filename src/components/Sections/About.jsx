@@ -13,7 +13,6 @@ function About() {
   const aboutTitle = useRef(null);
   const triggerRef = useRef(null);
 
-  
   useEffect(() => {
     gsap.fromTo(
       aboutTitle.current,
@@ -29,7 +28,7 @@ function About() {
           scrub: true,
         },
       }
-    );  
+    );
   }, []);
 
   // function isMobileDevice() {
@@ -45,9 +44,17 @@ function About() {
         <h1 className="text-smName md:text-mdName font-ralway pb-5">
           About Me
         </h1>
-        <p className="text-defaultBase sm:text-smallText md:text-midText lg:text-largeText font-montserrat pb-10">
-          Here are the skills I've cultivated.
+        {/* <h2>Professional Skills</h2> */}
+        <p className="text-defaultBase sm:text-smallText md:text-midText lg:text-largeText font-montserrat pb-4 px-4 md:px-0">
+          I am a passionate and dedicated web developer with a strong foundation in modern web technologies. My expertise includes:
         </p>
+        <ul className="text-defaultBase sm:text-smallText md:text-midText lg:text-largeText font-montserrat pb-10 px-4 md:px-0 list-disc pl-6 space-y-2">
+          <li>Design and build websites to meet user needs</li>
+          <li>Develop responsive and modern websites using up-to-date tools</li>
+          <li>Deploy websites, ensuring strong performance and security</li>
+          <li>Maintain and improve websites for optimal functionality</li>
+        </ul>
+        <h1 className="text-smName md:text-mdName font-ralway pb-5">Here are the skills I've cultivated.</h1>
       </div>
 
       <div className="flex flex-col md:flex-row ">

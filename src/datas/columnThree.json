@@ -17,27 +17,8 @@
         ]
       }
     ]
-  }, {
-    "id": 2,
-    "title": "Php FrameWorks",
-    "skills": [
-      {
-        "codeignighter": [
-          {
-            "title": "CODEIGNIGHTER",
-            "imgPath": "../../src/images/codeigniter.png"
-          }
-        ],
-        "laravel": [
-          {
-            "title": "LARAVEL",
-            "imgPath": "../../src/images/laravel.png"
-          }
-        ]
-        
-      }
-    ]
-  }, {
+  },
+  {
     "id": 3,
     "title": "Version Control System",
     "skills": [
@@ -47,11 +28,31 @@
             "title": "GIT",
             "imgPath": "../../src/images/git.png"
           }
-        ],
-        "docker": [
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Android Studio",
+    "skills": [
+      {
+        "kotlin": [
           {
-            "title": "DOCKER",
-            "imgPath": "../../src/images/docker.png"
+            "title": "KOTLIN",
+            "imgPath": "../../src/images/kotlin.png"
+          }
+        ],
+        "XML": [
+          {
+            "title": "XML",
+            "imgPath": "../../src/images/xml.png"
+          }
+        ],
+        "jetpackcompose": [
+          {
+            "title": "JETPACK COMPOSE",
+            "imgPath": "../../src/images/jetpackcompose.png"
           }
         ]
       }

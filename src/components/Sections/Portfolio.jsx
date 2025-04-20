@@ -1,7 +1,5 @@
 import { Link as ScrollLinkPortFolio,useNavigate } from "react-router-dom";
-
 import datas from '../../datas/data.json'
-
 import { gsap } from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
 import { useGSAP } from "@gsap/react";
@@ -11,15 +9,12 @@ gsap.registerPlugin(useGSAP, ScrollTrigger);
 function Portfolio() {
   const boxPortImgRefs = useRef([]);
   
-  
   useEffect(() => {
     const tl = gsap.timeline({
       scrollTrigger: {
         trigger: ".boxPortImages",
         start: "top 90%",
-        end: "bottom 80%",
-        scrub: true,
-        markers:true
+        end: "bottom 80%"
       },
     });
 
@@ -47,7 +42,6 @@ function Portfolio() {
           trigger: triggerPortFolioRef.current,
           start: "top 80%",
           end: "top 30%",
-          scrub: true,
         },
       }
     );  
@@ -60,7 +54,7 @@ function Portfolio() {
     navigate('/project',{state:{id}})
   }
   return (
-    <section ref={triggerPortFolioRef} id="portfolio" className="container overflow-hidden flex flex-col justify-center items-center mx-auto min-h-screen">
+    <div ref={triggerPortFolioRef} className="w-full">
       {/* Title.. */}
       <div ref={portfolioTitle} className="flex flex-col w-full justify-start items-start">
         <h1 className="text-smName md:text-mdName font-ralway pb-5 px-4 md:px-0">
@@ -75,26 +69,23 @@ function Portfolio() {
       {/* image gallery starts.. */}
       <div className="container mx-auto px-4">
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-1">
-          {
-            datas.map((data,index)=>{
-            
+          {datas.map((data,index)=>{
             return <div ref={(el) => (boxPortImgRefs.current[index] = el)} key={index} className="boxPortImages bg-gray-200 items-center justify-center">
               <div className="overflow-hidden">
-                  <img
-                    src={data.src}
-                    id={data.id}
-                    onClick={handlePortfolioClick}
-                    className="w-full h-[273.3px] object-fill transition-transform duration-500 transform hover:scale-110 cursor-pointer"
-                  />
+                <img
+                  src={data.src}
+                  id={data.id}
+                  onClick={handlePortfolioClick}
+                  className="w-full h-[380px] object-fill transition-transform duration-500 transform hover:scale-110 cursor-pointer"
+                  alt={`Portfolio item ${index + 1}`}
+                />
               </div>
-          </div>
-
-            })
-          }
+            </div>
+          })}
         </div>
       </div>
       {/* image gallery ends.. */}
-    </section>
+    </div>
   );
 }
 

@@ -1,18 +1,25 @@
-[{
+[
+  {
     "id": 1,
     "title": "WebDesign Tools",
     "skills": [
       {
-        "photoshop": [
-          {
-            "title": "PHOTOSHOP",
-            "imgPath": "../../src/images/ps.png"
-          }
-        ],
         "figma": [
           {
             "title": "FIGMA",
             "imgPath": "../../src/images/figma.png"
+          }
+        ],
+        "canva": [
+          {
+            "title": "CANVA",
+            "imgPath": "../../src/images/image 23.png"
+          }
+        ],
+        "photoshop": [
+          {
+            "title": "PHOTOSHOP",
+            "imgPath": "../../src/images/ps.png"
           }
         ]
       }
@@ -27,18 +34,6 @@
             "title": "PHP AND MYSQL",
             "imgPath": "../../src/images/phpmysql.png"
           }
-        ],
-        "mongodb": [
-          {
-            "title": "MONGODB",
-            "imgPath": "../../src/images/mongodb.png"
-          }
-        ],
-        "nodejs": [
-          {
-            "title": "NODEJS",
-            "imgPath": "../../src/images/nodejs.png"
-          }
         ]
       }
     ]
@@ -51,31 +46,6 @@
           {
             "title": "WORDPRESS",
             "imgPath": "../../src/images/wp.png"
-          }
-        ]
-      }
-    ]
-  }, {
-    "id": 4,
-    "title": "Android Studio",
-    "skills": [
-      {
-        "kotlin": [
-          {
-            "title": "KOTLIN",
-            "imgPath": "../../src/images/kotlin.png"
-          }
-        ],
-        "XML": [
-          {
-            "title": "XML",
-            "imgPath": "../../src/images/xml.png"
-          }
-        ],
-        "jetpackcompose": [
-          {
-            "title": "JETPACK COMPOSE",
-            "imgPath": "../../src/images/jetpackcompose.png"
           }
         ]
       }
