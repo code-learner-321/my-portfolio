@@ -1,5 +1,9 @@
 import React, { useEffect, useRef } from "react";
+
+// import myImage from "../../images/ndimage.png";
+
 import myImage from "../../images/ndimage.png";
+
 import { FaGithub } from "@react-icons/all-files/fa/FaGithub";
 import { FaLinkedinIn } from "@react-icons/all-files/fa/FaLinkedinIn";
 import { Link as SocialMediaLink } from "react-router-dom";
