@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "title": "WebDesign Tools",
+    "skills": [
+      {
+        "figma": [
+          {
+            "title": "FIGMA",
+            "imgPath": "../../src/images/figma.png"
+          }
+        ],
+        "canva": [
+          {
+            "title": "CANVA",
+            "imgPath": "../../src/images/image 23.png"
+          }
+        ],
+        "photoshop": [
+          {
+            "title": "PHOTOSHOP",
+            "imgPath": "../../src/images/ps.png"
+          }
+        ]
+      }
+    ]
+  }, {
+    "id": 2,
+    "title": "Server Languages",
+    "skills": [
+      {
+        "phpandmysql": [
+          {
+            "title": "PHP AND MYSQL",
+            "imgPath": "../../src/images/phpmysql.png"
+          }
+        ]
+      }
+    ]
+  }, {
+    "id": 3,
+    "title": "Php CMS",
+    "skills": [
+      {
+        "wordpress": [
+          {
+            "title": "WORDPRESS",
+            "imgPath": "../../src/images/wp.png"
+          }
+        ]
+      }
+    ]
+  }]

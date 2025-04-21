@@ -1,0 +1,13 @@
+body{
+  background-color: #FFFFFF;
+  font-size: 17.6px;
+  margin: 0px;
+  padding: 0px;
+}
+.hamburger{
+  cursor: pointer;
+  transition: all 0.25s;
+  position: relative;
+}
+
+

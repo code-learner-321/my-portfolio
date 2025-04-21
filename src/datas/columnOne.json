@@ -1,0 +1,63 @@
+[{
+    "id": 1,
+    "title": "Static Languages",
+    "skills": [
+      {
+        "html": [
+          {
+            "title": "HTML",
+            "imgPath": "../../src/images/coreHtml1.png"
+          }
+        ],
+        "html5": [
+          {
+            "title": "HTML5",
+            "imgPath": "../../src/images/coreHtml5.png"
+          }
+        ],
+        "css": [
+          {
+            "title": "CSS",
+            "imgPath": "../../src/images/css.png"
+          }
+        ],
+        "css3": [
+          {
+            "title": "CSS3",
+            "imgPath": "../../src/images/css3.png"
+          }
+        ]
+      }
+    ]
+  }, {
+    "id": 2,
+    "title": "JavaScript and Frameworks",
+    "skills": [
+      {
+        "javascript": [
+          {
+            "title": "JAVASCRIPT",
+            "imgPath": "../../src/images/javascript.png"
+          }
+        ],
+        "jquery": [
+          {
+            "title": "JQUERY",
+            "imgPath": "../../src/images/jquery.png"
+          }
+        ],
+        "react": [
+          {
+            "title": "REACT",
+            "imgPath": "../../src/images/react.png"
+          }
+        ],
+        "nodejs": [
+          {
+            "title": "NODEJS",
+            "imgPath": "../../src/images/nodejs.png"
+          }
+        ]
+      }
+    ]
+  }]

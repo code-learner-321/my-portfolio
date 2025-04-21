@@ -1,0 +1,61 @@
+[{
+    "id": 1,
+    "title": "Responsive Layout and FrameWork",
+    "skills": [
+      {
+        "bootsrtap": [
+          {
+            "title": "BOOTSTRAP",
+            "imgPath": "../../src/images/bootstrap.png"
+          }
+        ],
+        "tailwindcss": [
+          {
+            "title": "TAILWINDCSS",
+            "imgPath": "../../src/images/tailwindcss.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Version Control System",
+    "skills": [
+      {
+        "git": [
+          {
+            "title": "GIT",
+            "imgPath": "../../src/images/git.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Android Studio",
+    "skills": [
+      {
+        "kotlin": [
+          {
+            "title": "KOTLIN",
+            "imgPath": "../../src/images/kotlin.png"
+          }
+        ],
+        "XML": [
+          {
+            "title": "XML",
+            "imgPath": "../../src/images/xml.png"
+          }
+        ],
+        "jetpackcompose": [
+          {
+            "title": "JETPACK COMPOSE",
+            "imgPath": "../../src/images/jetpackcompose.png"
+          }
+        ]
+      }
+    ]
+  }
+]
