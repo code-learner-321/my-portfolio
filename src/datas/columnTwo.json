@@ -50,4 +50,29 @@
         ]
       }
     ]
+  },{
+    "id": 4,
+    "title": "Ai Editor Tools",
+    "skills": [
+      {
+        "vscode": [
+          {
+            "title": "VS CODE",
+            "imgPath": "../../src/images/imagevscode.png"
+          }
+        ],
+        "cursorai": [
+          {
+            "title": "CURSOR AI",
+            "imgPath": "../../src/images/imagecursor.png"
+          }
+        ],
+        "windsurf": [
+          {
+            "title": "WINDSURF",
+            "imgPath": "../../src/images/imagewindsurf.png"
+          }
+        ]
+      }
+    ]
   }]

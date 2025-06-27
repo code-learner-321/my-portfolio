@@ -96,12 +96,11 @@ function Contact() {
         </div>
         <div ref={emailRef} className="flex flex-row">
             <FiMail className='text-accent h-7'/> 
-            <span className="text-defaultBase pl-2 md:px-2 sm:text-smallText md:text-midText lg:text-largeText font-montserrat">najubudeenktm@gmail.com</span>
+            <span className="text-defaultBase pl-2 md:px-2 sm:text-smallText md:text-midText lg:text-largeText font-montserrat">najubudeveloper@gmail.com</span>
         </div>
         <div ref={socialMediaRef} className="flex flex-row gap-2">
-            <SocialMediaContact to={"https://github.com/login"} onClick={handleLinkClick}>
+            <SocialMediaContact to={"https://github.com/code-learner-321"} onClick={handleLinkClick}>
                 <FaGithub className='text-accent hover:text-accent-secondary h-7'/> 
-
             </SocialMediaContact>
         </div>
     </div>

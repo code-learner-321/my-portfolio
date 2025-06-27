@@ -110,6 +110,38 @@
             "wpPluginsUsed":[],
             "libraries":["Gsap","React Router Dom","React Scroll","React Icons","Tailwindcss 3.4.15"]
         }]
+    },
+    {"id":"8",
+    "src":"/src/images/mockuppixldynamics.jpg",
+    "properties":[{
+            "type":"pixl dynamics by nd ( wordpress Elementor widget )",
+            "projectSrc":"/src/images/mockuppixldynamics.gif",
+            "colorscheme":"",
+            "font":"",
+            "width":"",
+            "contentWidth":"",
+            "preview":"https://www.najubudeen.info/demo-card-flip/",
+            "designtemplate":"",
+            "wpTheme":"",
+            "wpPluginsUsed":[],
+            "libraries":[]
+        }]
+    },
+    {"id":"9",
+    "src":"/src/images/mockupsupersimpleslider.jpg",
+    "properties":[{
+            "type":"Super Simple SLider by nd ( wordpress gutenberg plugin )",
+            "projectSrc":"/src/images/supersimpleslider.gif",
+            "colorscheme":"",
+            "font":"",
+            "width":"",
+            "contentWidth":"",
+            "preview":"https://www.najubudeen.info/wp-plugin-demo-one/",
+            "designtemplate":"",
+            "wpTheme":"",
+            "wpPluginsUsed":[],
+            "libraries":[]
+        }]
     }
     
 ]

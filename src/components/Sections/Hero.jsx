@@ -73,9 +73,7 @@ function  Hero() {
             />
           </div>
           <p className="text-defaultBase px-8 md:px-8 sm:text-smallText md:text-midText lg:text-largeText font-montserrat">
-            A Web Designer and Developer with one year of experience and a
-            profound passion for coding, always eager to embrace the latest
-            technologies and trends.
+            A Web Designer and Developer with a profound passion for coding, always eager to embrace the latest technologies and trends.
           </p>
           <div className="flex flex-row gap-5 pt-5">
             <button className="bg-accent hover:bg-accent-secondary py-1 px-3 text-defaultBase sm:text-smallText md:text-midText lg:text-largeText font-montserrat">
@@ -83,7 +81,7 @@ function  Hero() {
             </button>
             <div className="flex flex-row gap-2">
               <SocialMediaLink
-                to={"https://github.com/login"}
+                to={"https://github.com/code-learner-321"}
                 onClick={handleLinkClick}
               >
                 <FaGithub className="text-accent hover:text-accent-secondary h-7" />

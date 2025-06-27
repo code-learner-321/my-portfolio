@@ -49,11 +49,24 @@ function About() {
           I am a passionate and dedicated web developer with a strong foundation in modern web technologies. My expertise includes:
         </p>
         <ul className="text-defaultBase sm:text-smallText md:text-midText lg:text-largeText font-montserrat pb-10 px-6 md:px-0 list-disc pl-6 space-y-2">
-          <li>Design and build websites to meet user needs</li>
-          <li>Develop responsive and modern websites using up-to-date tools</li>
-          <li>Deploy websites, ensuring strong performance and security</li>
-          <li>Maintain and improve websites for optimal functionality</li>
+          <li><b>Designing and building</b> websites that meet user needs and provide a great experience.</li>
+
+          <li><b>Developing responsive and visually appealing</b> web solutions using the latest tools.</li>
+
+          <li><b>Deploying high-performance and secure</b> websites for reliability and speed.</li>
+
+          <li><b>Maintaining and improving</b> website functionality to ensure long-term efficiency.</li>
+
+          <li><b>Creating custom WordPress Gutenberg plugins</b> to enhance website functionality and design.</li>
+
+          <li><b>Developing Elementor addons</b> for seamless and dynamic web experiences.</li>
         </ul>
+
+        <p className="text-defaultBase sm:text-smallText md:text-midText lg:text-largeText font-montserrat pb-4 px-4 md:px-0">
+          I also use AI-powered tools to speed up development, improve quality, and enhance productivity, helping me deliver smarter and more effective web solutions.
+        </p>
+
+
         <h1 className="text-smName md:text-mdName font-ralway pb-5">Here are the skills I've cultivated.</h1>
       </div>
 

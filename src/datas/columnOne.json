@@ -54,7 +54,7 @@
         ],
         "nodejs": [
           {
-            "title": "NODEJS",
+            "title": "NODEJS AND MONGODB",
             "imgPath": "../../src/images/nodejs.png"
           }
         ]
