@@ -170,7 +170,7 @@ function Projects() {
                                     Live Preview
                                   </h3>
                                   <Link
-                                    to="/"
+                                    to={dataProps.preview}
                                     className="pl-4 md:pl-16 text-defaultBase px-8 md:px-8 sm:text-smallText md:text-midText lg:text-largeText font-montserrat"
                                     target="_blank"
                                   >
