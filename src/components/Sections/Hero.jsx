@@ -10,7 +10,7 @@ import { Link as SocialMediaLink } from "react-router-dom";
 
 import { gsap } from "gsap";
 
-function Hero() {
+function  Hero() {
   const profileImgRef = useRef(null);
   const heroLeftRef = useRef(null);
 
@@ -87,14 +87,6 @@ function Hero() {
                 onClick={handleLinkClick}
               >
                 <FaGithub className="text-accent hover:text-accent-secondary h-7" />
-              </SocialMediaLink>
-              <SocialMediaLink
-                to={
-                  "https://www.linkedin.com/login?fromSignIn=true&trk=guest_homepage-basic_nav-header-signin"
-                }
-                onClick={handleLinkClick}
-              >
-                <FaLinkedinIn className="text-accent hover:text-accent-secondary h-7" />
               </SocialMediaLink>
             </div>
             <span>{/* for git */}</span>

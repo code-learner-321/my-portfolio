@@ -57,7 +57,7 @@ function About() {
         <h1 className="text-smName md:text-mdName font-ralway pb-5">Here are the skills I've cultivated.</h1>
       </div>
 
-      <div className="flex flex-col md:flex-row ">
+      <div className="flex flex-col md:flex-row">
         <div className="w-full md:w-2/3">
           <FirstColumn />
         </div>
