@@ -1,86 +1,114 @@
 [
     {"id":"1",
-    "src":"/src/images/600pxthumbfurnish.jpg",
+    "src":"/src/images/mockupfullpageeshop.png",
     "properties":[{
-            "title":"E-Commerce Store",
-            "projectSrc":"/src/images/furnish.gif",
-            "colorscheme":"/src/images/constructioncolorscheme.png",
-            "font":"Raleway",
+            "type":"E-Commerce Store",
+            "projectSrc":"/src/images/mockupfullpageeshop.gif",
+            "colorscheme":"/src/images/eshop.png",
+            "font":"Poppins",
+            "width":"",
+            "contentWidth":"1140px (flexbox boxed)",
             "preview":"",
             "designtemplate":"",
-            "wp":"",
-            "react":"",
-            "htmltemplate":""
+            "wpTheme":"Blocksy",
+            "wpPluginsUsed":["Elementor","Advanced Woo Search","Essential Addons for Elementor","MetForm","Variation Swatches for WooCommerce","WooCommerce"],
+            "libraries":[]
         }]
     },
     {"id":"2",
-    "src":"/src/images/600pxthumbsporthive.jpg",
+    "src":"/src/images/600pxthumbfurnish.jpg",
     "properties":[{
-            "title":"E-Commerce Store",
-            "projectSrc":"/src/images/mockupfullpagesporthive.gif",
+            "type":"E-Commerce Store",
+            "projectSrc":"/src/images/furnish.gif",
             "colorscheme":"/src/images/constructioncolorscheme.png",
-            "font":"Raleway",
+            "font":"Poppins",
+            "width":"",
+            "contentWidth":"1600px (flexbox boxed)",
             "preview":"",
             "designtemplate":"",
-            "wp":"",
-            "react":"",
-            "htmltemplate":""
+            "wpTheme":"Woostify",
+            "wpPluginsUsed":["Elementor","Razorpay","Essential Addons for Elementor","Jeg Elementor Kit","MetForm","TI WooCommerce Wishlist","Variation Swatches for WooCommerce","WooCommerce"],
+            "libraries":[]
         }]
     },
     {"id":"3",
-    "src":"/src/images/thumbconstruction.jpg",
+    "src":"/src/images/600pxthumbsporthive.jpg",
     "properties":[{
-            "title":"Construction",
-            "projectSrc":"/src/images/mockupfullpageconstruction.jpg",
+            "type":"E-Commerce Store",
+            "projectSrc":"/src/images/mockupfullpagesporthive.gif",
             "colorscheme":"/src/images/constructioncolorscheme.png",
-            "font":"Raleway",
+            "font":"Poppins",
+            "width":"",
+            "contentWidth":"1140px",
             "preview":"",
             "designtemplate":"",
-            "wp":"",
-            "react":"",
-            "htmltemplate":""
+            "wpTheme":"Blocksy",
+            "wpPluginsUsed":["Elementor","LiteSpeed Cache","MetForm","Premium Addons For Elementor","WooCommerce"],
+            "libraries":[]
         }]
     },
     {"id":"4",
-    "src":"/src/images/600pxthumbpharmacy.jpg",
+    "src":"/src/images/thumbconstruction.jpg",
     "properties":[{
-            "title":"Construction",
-            "projectSrc":"/src/images/mockupfullpagepharmacy.jpg",
+            "type":"Construction Portfolio Site",
+            "projectSrc":"/src/images/mockupfullpageconstruction.jpg",
             "colorscheme":"/src/images/constructioncolorscheme.png",
             "font":"Raleway",
+            "width":"full width",
+            "contentWidth":"100% width with 20px left and right padding",
             "preview":"",
             "designtemplate":"",
-            "wp":"",
-            "react":"",
-            "htmltemplate":""
+            "wpTheme":"Robust Constructor (Child theme of Astra)",
+            "wpPluginsUsed":["Elementor","LiteSpeed Cache","MetForm","Ultimate Addons for Elementor Lite"],
+            "libraries":[]
         }]
     },
     {"id":"5",
-    "src":"/src/images/600pxthumbmusicevent.jpg",
+    "src":"/src/images/600pxthumbpharmacy.jpg",
     "properties":[{
-            "title":"Construction",
-            "projectSrc":"/src/images/mockupfullpage.jpg",
+            "type":"Figma Design Template",
+            "projectSrc":"/src/images/mockupfullpagepharmacy.jpg",
             "colorscheme":"/src/images/constructioncolorscheme.png",
             "font":"Raleway",
+            "width":"1440px Full Width",
+            "contentWidth":"1370px",
             "preview":"",
             "designtemplate":"",
-            "wp":"",
-            "react":"",
-            "htmltemplate":""
+            "wpTheme":"",
+            "wpPluginsUsed":[],
+            "libraries":[]
         }]
     },
     {"id":"6",
-    "src":"/src/images/600pxthumbportfolio.jpg",
+    "src":"/src/images/600pxthumbmusicevent.jpg",
     "properties":[{
-            "title":"construction",
-            "projectSrc":"/src/images/mockupfullpageportfolio.gif",
-            "colorscheme":"/src/images/myportfoliocolorscheme.png",
-            "font":"",
+            "type":"Figma Design Template",
+            "projectSrc":"/src/images/mockupfullpage.jpg",
+            "colorscheme":"/src/images/constructioncolorscheme.png",
+            "font":"Freeman",
+            "width":"100% full width",
+            "contentWidth":"1116px",
             "preview":"",
             "designtemplate":"",
-            "wp":"",
-            "react":"",
-            "htmltemplate":""
+            "wpTheme":"",
+            "wpPluginsUsed":[],
+            "libraries":[]
+        }]
+    },
+    {"id":"7",
+    "src":"/src/images/600pxthumbportfolio.jpg",
+    "properties":[{
+            "type":"React Personel Portfolio",
+            "projectSrc":"/src/images/mockupfullpageportfolio.gif",
+            "colorscheme":"/src/images/myportfoliocolorscheme.png",
+            "font":"Raleway and Montserrat Alternates",
+            "width":"100% full container width",
+            "contentWidth":"",
+            "preview":"",
+            "designtemplate":"",
+            "wpTheme":"",
+            "wpPluginsUsed":[],
+            "libraries":["Gsap","React Router Dom","React Scroll","React Icons","Tailwindcss 3.4.15"]
         }]
     }
     
