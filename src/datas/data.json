@@ -1,10 +1,10 @@
 [
     {"id":"1",
-    "src":"/src/images/mockupfullpageeshop.png",
+    "src":"/my-portfolio/images/mockupfullpageeshop.png",
     "properties":[{
             "type":"E-Commerce Store",
-            "projectSrc":"/src/images/mockupfullpageeshop.gif",
-            "colorscheme":"/src/images/eshop.png",
+            "projectSrc":"/my-portfolio/images/mockupfullpageeshop.gif",
+            "colorscheme":"/my-portfolio/images/eshop.png",
             "font":"Poppins",
             "width":"",
             "contentWidth":"1140px (flexbox boxed)",
@@ -16,11 +16,11 @@
         }]
     },
     {"id":"2",
-    "src":"/src/images/600pxthumbfurnish.jpg",
+    "src":"/my-portfolio/images/600pxthumbfurnish.jpg",
     "properties":[{
             "type":"E-Commerce Store",
-            "projectSrc":"/src/images/furnish.gif",
-            "colorscheme":"/src/images/constructioncolorscheme.png",
+            "projectSrc":"/my-portfolio/images/furnish.gif",
+            "colorscheme":"/my-portfolio/images/constructioncolorscheme.png",
             "font":"Poppins",
             "width":"",
             "contentWidth":"1600px (flexbox boxed)",
@@ -32,11 +32,11 @@
         }]
     },
     {"id":"3",
-    "src":"/src/images/600pxthumbsporthive.jpg",
+    "src":"/my-portfolio/images/600pxthumbsporthive.jpg",
     "properties":[{
             "type":"E-Commerce Store",
-            "projectSrc":"/src/images/mockupfullpagesporthive.gif",
-            "colorscheme":"/src/images/constructioncolorscheme.png",
+            "projectSrc":"/my-portfolio/images/mockupfullpagesporthive.gif",
+            "colorscheme":"/my-portfolio/images/constructioncolorscheme.png",
             "font":"Poppins",
             "width":"",
             "contentWidth":"1140px",
@@ -48,11 +48,11 @@
         }]
     },
     {"id":"4",
-    "src":"/src/images/thumbconstruction.jpg",
+    "src":"/my-portfolio/images/thumbconstruction.jpg",
     "properties":[{
             "type":"Construction Portfolio Site",
-            "projectSrc":"/src/images/mockupfullpageconstruction.jpg",
-            "colorscheme":"/src/images/constructioncolorscheme.png",
+            "projectSrc":"/my-portfolio/images/mockupfullpageconstruction.jpg",
+            "colorscheme":"/my-portfolio/images/constructioncolorscheme.png",
             "font":"Raleway",
             "width":"full width",
             "contentWidth":"100% width with 20px left and right padding",
@@ -64,11 +64,11 @@
         }]
     },
     {"id":"5",
-    "src":"/src/images/600pxthumbpharmacy.jpg",
+    "src":"/my-portfolio/images/600pxthumbpharmacy.jpg",
     "properties":[{
             "type":"Figma Design Template",
-            "projectSrc":"/src/images/mockupfullpagepharmacy.jpg",
-            "colorscheme":"/src/images/constructioncolorscheme.png",
+            "projectSrc":"/my-portfolio/images/mockupfullpagepharmacy.jpg",
+            "colorscheme":"/my-portfolio/images/constructioncolorscheme.png",
             "font":"Raleway",
             "width":"1440px Full Width",
             "contentWidth":"1370px",
@@ -83,8 +83,8 @@
     "src":"/src/images/600pxthumbmusicevent.jpg",
     "properties":[{
             "type":"Figma Design Template",
-            "projectSrc":"/src/images/mockupfullpage.jpg",
-            "colorscheme":"/src/images/constructioncolorscheme.png",
+            "projectSrc":"/my-portfolio/images/mockupfullpage.jpg",
+            "colorscheme":"/my-portfolio/images/constructioncolorscheme.png",
             "font":"Freeman",
             "width":"100% full width",
             "contentWidth":"1116px",
@@ -96,11 +96,11 @@
         }]
     },
     {"id":"7",
-    "src":"/src/images/600pxthumbportfolio.jpg",
+    "src":"/my-portfolio/images/600pxthumbportfolio.jpg",
     "properties":[{
             "type":"React Personel Portfolio",
-            "projectSrc":"/src/images/mockupfullpageportfolio.gif",
-            "colorscheme":"/src/images/myportfoliocolorscheme.png",
+            "projectSrc":"/my-portfolio/images/mockupfullpageportfolio.gif",
+            "colorscheme":"/my-portfolio/images/myportfoliocolorscheme.png",
             "font":"Raleway and Montserrat Alternates",
             "width":"100% full container width",
             "contentWidth":"",
@@ -112,10 +112,10 @@
         }]
     },
     {"id":"8",
-    "src":"/src/images/mockuppixldynamics.jpg",
+    "src":"/my-portfolio/images/mockuppixldynamics.jpg",
     "properties":[{
             "type":"pixl dynamics by nd ( wordpress Elementor widget )",
-            "projectSrc":"/src/images/mockuppixldynamics.gif",
+            "projectSrc":"/my-portfolio/images/mockuppixldynamics.gif",
             "colorscheme":"",
             "font":"",
             "width":"",
@@ -128,10 +128,10 @@
         }]
     },
     {"id":"9",
-    "src":"/src/images/mockupsupersimpleslider.jpg",
+    "src":"/my-portfolio/images/mockupsupersimpleslider.jpg",
     "properties":[{
             "type":"Super Simple SLider by nd ( wordpress gutenberg plugin )",
-            "projectSrc":"/src/images/supersimpleslider.gif",
+            "projectSrc":"/my-portfolio/images/supersimpleslider.gif",
             "colorscheme":"",
             "font":"",
             "width":"",
