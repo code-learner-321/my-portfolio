@@ -1,17 +1,17 @@
 import React, { useEffect, useRef } from 'react'
-import nodejs from "../../../images/nodejs.png";
+import nodejs from "/images/nodejs.png";
 
-import ps from "../../../images/ps.png";
-import figma from "../../../images/figma.png";
+import ps from "/images/ps.png";
+import figma from "/images/figma.png";
 
-import phpmysql from "../../../images/phpmysql.png";
-import mongodb from "../../../images/mongodb.png";
+import phpmysql from "/images/phpmysql.png";
+import mongodb from "/images/mongodb.png";
 
-import wp from "../../../images/wp.png";
+import wp from "/images/wp.png";
 
-import kotlin from "../../../images/kotlin.png";
-import xml from "../../../images/xml.png";
-import jetpackcompose from "../../../images/jetpackcompose.png";
+import kotlin from "/images/kotlin.png";
+import xml from "/images/xml.png";
+import jetpackcompose from "/images/jetpackcompose.png";
 import ColumnTwo from "../../../datas/columnTwo.json";
 
 import { gsap } from "gsap";
