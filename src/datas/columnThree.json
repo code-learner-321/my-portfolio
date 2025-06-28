@@ -6,13 +6,13 @@
         "bootsrtap": [
           {
             "title": "BOOTSTRAP",
-            "imgPath": "../../src/images/bootstrap.png"
+            "imgPath": "/my-portfolio/images/bootstrap.png"
           }
         ],
         "tailwindcss": [
           {
             "title": "TAILWINDCSS",
-            "imgPath": "../../src/images/tailwindcss.png"
+            "imgPath": "/my-portfolio/images/tailwindcss.png"
           }
         ]
       }
@@ -26,7 +26,7 @@
         "git": [
           {
             "title": "GIT",
-            "imgPath": "../../src/images/git.png"
+            "imgPath": "/my-portfolio/images/git.png"
           }
         ]
       }
@@ -40,19 +40,19 @@
         "kotlin": [
           {
             "title": "KOTLIN",
-            "imgPath": "../../src/images/kotlin.png"
+            "imgPath": "/my-portfolio/images/kotlin.png"
           }
         ],
         "XML": [
           {
             "title": "XML",
-            "imgPath": "../../src/images/xml.png"
+            "imgPath": "/my-portfolio/images/xml.png"
           }
         ],
         "jetpackcompose": [
           {
             "title": "JETPACK COMPOSE",
-            "imgPath": "../../src/images/jetpackcompose.png"
+            "imgPath": "/my-portfolio/images/jetpackcompose.png"
           }
         ]
       }

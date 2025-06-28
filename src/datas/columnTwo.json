@@ -7,19 +7,19 @@
         "figma": [
           {
             "title": "FIGMA",
-            "imgPath": "../../src/images/figma.png"
+            "imgPath": "/my-portfolio/images/figma.png"
           }
         ],
         "canva": [
           {
             "title": "CANVA",
-            "imgPath": "../../src/images/canva.png"
+            "imgPath": "/my-portfolio/images/canva.png"
           }
         ],
         "photoshop": [
           {
             "title": "PHOTOSHOP",
-            "imgPath": "../../src/images/ps.png"
+            "imgPath": "/my-portfolio/images/ps.png"
           }
         ]
       }
@@ -32,7 +32,7 @@
         "phpandmysql": [
           {
             "title": "PHP AND MYSQL",
-            "imgPath": "../../src/images/phpmysql.png"
+            "imgPath": "/my-portfolio/images/phpmysql.png"
           }
         ]
       }
@@ -45,7 +45,7 @@
         "wordpress": [
           {
             "title": "WORDPRESS",
-            "imgPath": "../../src/images/wp.png"
+            "imgPath": "/my-portfolio/images/wp.png"
           }
         ]
       }
@@ -58,19 +58,19 @@
         "vscode": [
           {
             "title": "VS CODE",
-            "imgPath": "../../src/images/imagevscode.png"
+            "imgPath": "/my-portfolio/images/imagevscode.png"
           }
         ],
         "cursorai": [
           {
             "title": "CURSOR AI",
-            "imgPath": "../../src/images/imagecursor.png"
+            "imgPath": "/my-portfolio/images/imagecursor.png"
           }
         ],
         "windsurf": [
           {
             "title": "WINDSURF",
-            "imgPath": "../../src/images/imagewindsurf.png"
+            "imgPath": "/my-portfolio/images/imagewindsurf.png"
           }
         ]
       }
