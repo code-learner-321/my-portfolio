@@ -6,25 +6,25 @@
         "html": [
           {
             "title": "HTML",
-            "imgPath": "/my-portfolio/images/coreHtml1.png"
+            "imgPath": "/images/coreHtml1.png"
           }
         ],
         "html5": [
           {
             "title": "HTML5",
-            "imgPath": "../../src/images/coreHtml5.png"
+            "imgPath": "/images/coreHtml5.png"
           }
         ],
         "css": [
           {
             "title": "CSS",
-            "imgPath": "../../src/images/css.png"
+            "imgPath": "/images/css.png"
           }
         ],
         "css3": [
           {
             "title": "CSS3",
-            "imgPath": "../../src/images/css3.png"
+            "imgPath": "/images/css3.png"
           }
         ]
       }
@@ -37,25 +37,25 @@
         "javascript": [
           {
             "title": "JAVASCRIPT",
-            "imgPath": "../../src/images/javascript.png"
+            "imgPath": "/images/javascript.png"
           }
         ],
         "jquery": [
           {
             "title": "JQUERY",
-            "imgPath": "../../src/images/jquery.png"
+            "imgPath": "/images/jquery.png"
           }
         ],
         "react": [
           {
             "title": "REACT",
-            "imgPath": "../../src/images/react.png"
+            "imgPath": "/images/react.png"
           }
         ],
         "nodejs": [
           {
             "title": "NODEJS AND MONGODB",
-            "imgPath": "../../src/images/nodejs.png"
+            "imgPath": "/images/nodejs.png"
           }
         ]
       }
