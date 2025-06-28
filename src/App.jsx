@@ -9,7 +9,7 @@ function App() {
 
   return (
     <>
-      <Router>
+      <Router basename={import.meta.env.VITE_BASE_URL || '/'}>
         <ScrollToTop/>
         <ScrollToElement/>
         <Routes>
