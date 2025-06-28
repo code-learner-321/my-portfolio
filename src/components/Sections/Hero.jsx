@@ -2,7 +2,7 @@ import React, { useEffect, useRef } from "react";
 
 // import myImage from "../../images/ndimage.png";
 
-import myImage from "/images/ndImage.png";
+import myImage from "/my-portfolio/images/ndImage.png";
 
 import { FaGithub } from "@react-icons/all-files/fa/FaGithub";
 import { FaLinkedinIn } from "@react-icons/all-files/fa/FaLinkedinIn";
